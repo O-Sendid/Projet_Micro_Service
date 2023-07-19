@@ -1,0 +1,13 @@
+Tue Oct 25 15:11:08 CEST 2022 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Oct 25 15:11:33 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0184-0f44-a86b-fffff3edce29 
+on database directory /local/omar.sendid.etu/tp_game_hui/game-gui-O-Sendid/projects2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5cb0d902 
+Loaded from file:/local/omar.sendid.etu/program/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+user.dir=/local/omar.sendid.etu/tp_game_hui/game-gui-O-Sendid
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-52-generic
+derby.system.home=/local/omar.sendid.etu/tp_game_hui/game-gui-O-Sendid
+Database Class Loader started - derby.database.classpath=''
